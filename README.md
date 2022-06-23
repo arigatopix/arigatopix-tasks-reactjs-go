@@ -2,10 +2,10 @@
 
 ## GO Server
 
-### 1 Start Server
+### 1) Start Server
 
 `cd server`
-
+`go get`
 `go run server.go`
 
 ## ReactJS
