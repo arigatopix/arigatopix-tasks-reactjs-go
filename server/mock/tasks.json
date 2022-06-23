@@ -1,0 +1,12 @@
+[
+  {
+    "Text": "Title",
+    "Day": "Jan,2 2022",
+    "Reminder": true
+  },
+  {
+    "Text": "Title2",
+    "Day": "Dec,2 2022",
+    "Reminder": false
+  }
+]
