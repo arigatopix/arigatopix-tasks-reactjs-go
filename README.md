@@ -5,7 +5,9 @@
 ### 1) Start Server
 
 `cd server`
+
 `go get`
+
 `go run server.go`
 
 ## ReactJS
@@ -13,6 +15,7 @@
 ### 2) install dependency
 
 `cd client`
+
 `npm i`
 
 ### 3) Start Client server
