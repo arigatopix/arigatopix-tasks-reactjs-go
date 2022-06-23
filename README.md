@@ -1,17 +1,20 @@
-# Start Server
+# TASK with Gin and ReactJS
+
+## GO Server
+
+### 1 Start Server
 
 `cd server`
 
 `go run server.go`
 
-# ReactJS
+## ReactJS
+
+### 2) install dependency
 
 `cd client`
-
-# install dependency
-
 `npm i`
 
-# Start Client server
+### 3) Start Client server
 
 `npm run start`
